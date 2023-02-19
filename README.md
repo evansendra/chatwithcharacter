@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# OpenAI powered character chat
 
-Chat with a character using OpenAI API.
+Chat with anyone you want using OpenAI API.
 
 Replace `OPENAI_ORG_ID` and `OPENAI_API_KEY` in index.js with your own.
 
